@@ -1,5 +1,4 @@
-# Villa-Platzi
-How to use the functions
+# Villa-Platzi 🌄
 
 How to use this project?
 
